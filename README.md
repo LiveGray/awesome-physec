@@ -46,21 +46,26 @@ USB Adapters | Self-explanatory
 [Lockmall 81 Piece Lockpick Set](https://secrethandtools.com/lockmall-81-pieces-stainless-steel-single-hook-lock-picking-kit-locksmith-tools-set?zenid=626d29f113f0404977912a16e68456c9) | Robust, compact lockpick set with all the essentials.
 Green Laser Pointer | Great distraction, and can be used to blind cameras on 2+ person operations.
 Flashlights x2 | Self-explanatory
-* [Sparrow Dimple Lockpick Set](https://www.sparrowslockpicks.com/product_p/dmplpick.htm)
-* [Southord 14 Piece Lockpick Set](https://www.amazon.com/SouthOrd-Piece-Lock-Set-PXS-14/dp/B08DN4BZFT/ref=sr_1_2?crid=3HS67RD9IKEQA&dchild=1&keywords=southord+pxs-14+lock+pick+set&qid=1601187056&sprefix=southord%2Caps%2C218&sr=8-2)
-* [3 Piece Tubular Lockpick Set](https://www.amazon.com/Stainless-Tubular-Impression-Professional-Picking/dp/B0892KRWVC/ref=sr_1_45?dchild=1&keywords=lockpick&qid=1601187081&sr=8-45)
-* [Firefighter tool](https://www.amazon.com/LINE2design-Multi-Purpose-Pry-Tool/dp/B07SK9P8LG/ref=sr_1_23?dchild=1&keywords=firefighter+tool&qid=1601187193&sr=8-23)
-* [American Bypass Tool](https://lockpicktools.com/american-padlock-by-pass-tool/)
-* [Feather Tension Wrench](https://www.lockpickshop.com/A-2.html)
-* Extra Tension Wrenches
-* [Electric Trimmer Wire](https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-String-Trimmer-Line/N-5yc1vZcjex)
-* [Mika Shims](https://www.lockpickshop.com/SUPER-MICA.html)
-* Measuring Tape
-* Electrical Tape
-* Thermal Blanket
-* [TSA compliant multi-tool](https://www.amazon.com/LEATHERMAN-Style-PS-Multitool-Black/dp/B0058RX9NU/ref=sr_1_8?crid=24XJAZV8ZTMCK&dchild=1&keywords=tsa+compliant+multitool&qid=1601187492&sprefix=tsa+compliant+mul%2Caps%2C195&sr=8-8)
-* [Badge Holder](https://www.amazon.com/Retractable-Holders-Carabiner-Vertical-Kevlar/dp/B07KGQQHCJ/ref=sr_1_5?dchild=1&keywords=badge+holder&qid=1601187548&sr=8-5)
-* Custom ID Badges
+[Sparrow Dimple Lockpick Set](https://www.sparrowslockpicks.com/product_p/dmplpick.htm) | High-quality pick set meant for dimple locks.
+[Southord 14 Piece Lockpick Set](https://www.amazon.com/SouthOrd-Piece-Lock-Set-PXS-14/dp/B08DN4BZFT/ref=sr_1_2?crid=3HS67RD9IKEQA&dchild=1&keywords=southord+pxs-14+lock+pick+set&qid=1601187056&sprefix=southord%2Caps%2C218&sr=8-2) | Best pocket lockpick set for the money.
+[3 Piece Tubular Lockpick Set](https://www.amazon.com/Stainless-Tubular-Impression-Professional-Picking/dp/B0892KRWVC/ref=sr_1_45?dchild=1&keywords=lockpick&qid=1601187081&sr=8-45) | Tubular lockpick set for bypassing desks, file cabinets, vending machines, etc.
+[Firefighter tool](https://www.amazon.com/LINE2design-Multi-Purpose-Pry-Tool/dp/B07SK9P8LG/ref=sr_1_23?dchild=1&keywords=firefighter+tool&qid=1601187193&sr=8-23) | Emergency responder entry tool
+[American Bypass Tool](https://lockpicktools.com/american-padlock-by-pass-tool/) | Padlock bypass tool.
+[Feather Tension Wrench](https://www.lockpickshop.com/A-2.html) | High-sensitivity tension wrench.
+Extra Tension Wrenches | Make sure to carry various shapes and sizes. 
+[Electric Trimmer Wire](https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-String-Trimmer-Line/N-5yc1vZcjex) | Used like travelers hook when there is a guard plate.
+[Mika Shims](https://www.lockpickshop.com/SUPER-MICA.html) | Credit card trick without ruining your own cards!
+Measuring Tape | Self-explanatory
+Electrical Tape | Self-explanatory
+Thermal Blanket | Can be used to walk right past infared cameras.
+[TSA compliant multi-tool](https://www.amazon.com/LEATHERMAN-Style-PS-Multitool-Black/dp/B0058RX9NU/ref=sr_1_8?crid=24XJAZV8ZTMCK&dchild=1&keywords=tsa+compliant+multitool&qid=1601187492&sprefix=tsa+compliant+mul%2Caps%2C195&sr=8-8) | Self-explanatory
+[Badge Holder](https://www.amazon.com/Retractable-Holders-Carabiner-Vertical-Kevlar/dp/B07KGQQHCJ/ref=sr_1_5?dchild=1&keywords=badge+holder&qid=1601187548&sr=8-5) | Always helps to have a badge holder if employing custom badges.
+Custom ID Badges | Adds a layer of legitimacy if guised as a technician, or anything else!
+Pilot G2 Pens | The best pens ever. You won't regret it!
+Pencil | Self-explanatory
+Notebook | Paper always comes in handy
+Clipboard | Self-explanatory
+
 # Keyring
 * [Sparrows Firefighter Elevator Key Set](https://www.sparrowslockpicks.com/product_p/ekey.htm)
 * [Wafer Lock Picks](https://www.sparrowslockpicks.com/product_p/wafer.htm#:~:text=Wafer%20Picks%20are%20a%20great,for%20the%20plug%20to%20turn.)
@@ -74,7 +79,3 @@ Flashlights x2 | Self-explanatory
 * [1284x](https://www.amazon.com/1284X-Mechanical-Ford-Fleet-Key/dp/B07L82NP1G/ref=sr_1_2?dchild=1&keywords=1284x+key&qid=1601188215&sr=8-2)
 * [Pre-assembled keyring](https://www.amazon.com/Pentesting-1284x-FEO-K1-16120-222343/dp/B0819XQ9XX/ref=sr_1_3?dchild=1&keywords=1284x+key&qid=1601188215&sr=8-3)
 * [Padlock Shims](https://www.sparrowslockpicks.com/product_p/sp33.htm)
-* Pilot G2 Pens
-* Pencil
-* Highlight
-Notebook
