@@ -1,7 +1,8 @@
-# Awesome-PhySec
+# Awesome-PhySec :office: :bank: :hospital:
 Repository containing useful links for all things Physical Security.
+![alt text](https://github.com/l373/Awesome-PhySec/blob/master/physec.jpg)
 
-# Videos & Conference Presentations
+# :computer: Videos & Conference Presentations
 The following videos and conference talks contain information that can land you in serious trouble.
 These are provided for education purposes only.
 
@@ -19,7 +20,7 @@ Video | Description
 [Breaking in BAD](https://www.youtube.com/watch?v=UpX70KxGiVo) | Useful onference talk on physical security.
 
 
-# Recommended Backpack - [Everki Titan](https://www.everki.com/us_en/business-120-travel-friendly-laptop-backpack-up-to-18-4-inch.html)
+# :toolbox: Recommended Backpack - [Everki Titan](https://www.everki.com/us_en/business-120-travel-friendly-laptop-backpack-up-to-18-4-inch.html)
 The aforementioned backpack successfully fits all of the following (30+ lbs including laptop):
 
 Item | Description
@@ -66,7 +67,7 @@ Pencil | Self-explanatory
 Notebook | Paper always comes in handy
 Clipboard | Self-explanatory
 
-# Keyring
+# :key:Keyring
 * [Sparrows Firefighter Elevator Key Set](https://www.sparrowslockpicks.com/product_p/ekey.htm)
 * [Wafer Lock Picks](https://www.sparrowslockpicks.com/product_p/wafer.htm#:~:text=Wafer%20Picks%20are%20a%20great,for%20the%20plug%20to%20turn.)
 * [Comb Picks](https://www.sparrowslockpicks.com/product_p/comb.htm)
@@ -79,3 +80,18 @@ Clipboard | Self-explanatory
 * [1284x](https://www.amazon.com/1284X-Mechanical-Ford-Fleet-Key/dp/B07L82NP1G/ref=sr_1_2?dchild=1&keywords=1284x+key&qid=1601188215&sr=8-2)
 * [Pre-assembled keyring](https://www.amazon.com/Pentesting-1284x-FEO-K1-16120-222343/dp/B0819XQ9XX/ref=sr_1_3?dchild=1&keywords=1284x+key&qid=1601188215&sr=8-3)
 * [Padlock Shims](https://www.sparrowslockpicks.com/product_p/sp33.htm)
+
+# :lock: Lockpicking
+The following github repository contains all things lockpicking. 
+
+Check it out for specific information on that domain.
+
+[Awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking)
+
+# :trollface: Example Badges 
+Intentionally made so you can see examples, but still have to do your own legwork.
+![alt text](https://github.com/l373/Awesome-PhySec/blob/master/badges.jpg)
+
+# :pirate_flag: Contributing
+Please contribute if you have more suggestions! My experience is too limited to be truly comprehensive. 
+It takes a lockpicking village. 
