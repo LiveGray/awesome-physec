@@ -19,6 +19,11 @@ Video | Description
 [The Silver Tongue vs the Iron Fist](https://www.youtube.com/watch?v=dVTcifBspRc) | Deviant Ollam on the wonders of Social Engineering.
 [Breaking in BAD](https://www.youtube.com/watch?v=UpX70KxGiVo) | Useful onference talk on physical security.
 
+# :page_facing_up: Legal Documents
+The following repository contains useful templates to help with the verbiage necessary to make things legal. 
+All credit goes to the person behind the following:
+
+[Legal Documents](https://github.com/trustedsec/physical-docs)
 
 # :toolbox: Recommended Backpack - [Everki Titan](https://www.everki.com/us_en/business-120-travel-friendly-laptop-backpack-up-to-18-4-inch.html)
 The aforementioned backpack successfully fits all of the following (30+ lbs including laptop):
