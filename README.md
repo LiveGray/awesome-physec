@@ -19,6 +19,24 @@ Video | Description
 [The Silver Tongue vs the Iron Fist](https://www.youtube.com/watch?v=dVTcifBspRc) | Deviant Ollam on the wonders of Social Engineering.
 [Breaking in BAD](https://www.youtube.com/watch?v=UpX70KxGiVo) | Useful onference talk on physical security.
 
+# Useful Disguises
+
+### Warning
+It is unlawful, and unethical to impersonate police, fire rescue, emt, military, or medical personnel. Unless otherwise specified by the client within the SOW, these can land you in serious trouble. 
+
+Idea | Description
+------------- | -------------
+Fire Extinguisher Technician | Many oragnizations don't inform their employees about such maintenence. If the target is wise to the trick, simply mention you are auditing someone elses previous work.
+ISP Technician | Internet problems happen... be there to help! 
+Building Security | Helps when recon reveals this information ahead of time. Act as a new employee. Unless you encounter the real deal, no one will know! 
+Lighting Technician | Walk in, and just start counting the lights on the ceiling. Look for ones that are out. Once complete, begin ruse with situation encounters.
+HVAC Technician | Similar to the above. 
+Resume Guy | If the ruse requires you to test whether or not the company follows their "No Outside USB's" policy, spill some coffee on a resume. Bring it in and ask real real nice if they will print a new one you have conveniently accesible. You might get lucky.  
+Locksmith | This one is difficult, but can sometimes pay off in a less modern setting. Mention being new to the area, and offer a free inspection to drum up new business.
+An Old Friend | If OSINT provides enough information to fake a relationship, do so. Mention previous experiences doing whatever you are doing, or that so an so has authorized it. Works especially well when the selected "friend" is out of the office so it seems a plan was miscommunicate. Maybe... 
+
+
+
 
 # :toolbox: Recommended Backpack - [Everki Titan](https://www.everki.com/us_en/business-120-travel-friendly-laptop-backpack-up-to-18-4-inch.html)
 The aforementioned backpack successfully fits all of the following (30+ lbs including laptop):
