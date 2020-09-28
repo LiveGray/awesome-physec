@@ -19,11 +19,6 @@ Video | Description
 [The Silver Tongue vs the Iron Fist](https://www.youtube.com/watch?v=dVTcifBspRc) | Deviant Ollam on the wonders of Social Engineering.
 [Breaking in BAD](https://www.youtube.com/watch?v=UpX70KxGiVo) | Useful onference talk on physical security.
 
-# :page_facing_up: Legal Documents
-The following repository contains useful templates to help with the verbiage necessary to make things legal. 
-All credit goes to the person behind the following:
-
-[Legal Documents](https://github.com/trustedsec/physical-docs)
 
 # :toolbox: Recommended Backpack - [Everki Titan](https://www.everki.com/us_en/business-120-travel-friendly-laptop-backpack-up-to-18-4-inch.html)
 The aforementioned backpack successfully fits all of the following (30+ lbs including laptop):
@@ -86,16 +81,30 @@ Clipboard | Self-explanatory
 * [Pre-assembled keyring](https://www.amazon.com/Pentesting-1284x-FEO-K1-16120-222343/dp/B0819XQ9XX/ref=sr_1_3?dchild=1&keywords=1284x+key&qid=1601188215&sr=8-3)
 * [Padlock Shims](https://www.sparrowslockpicks.com/product_p/sp33.htm)
 
-# :lock: Lockpicking
-The following github repository contains all things lockpicking. 
-
-Check it out for specific information on that domain.
-
-[Awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking)
-
 # :trollface: Example Badges 
 Intentionally made so you can see examples, but still have to do your own legwork.
 ![alt text](https://github.com/l373/Awesome-PhySec/blob/master/badges.jpg)
+
+# :page_facing_up: Legal Documents
+The following repository contains useful document templates to help with the verbiage necessary to make things legal. 
+All credit goes to the person behind the following:
+
+[Legal Documents](https://github.com/trustedsec/physical-docs)
+
+# :lock: Lockpicking
+The following github repository contains an awesome list of all things lockpicking. 
+
+Check it out for specific information in that domain.
+
+[Awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking)
+
+# :mage: Social Engineering
+The following github repository contains an awesome list of all things social engineering.
+
+Check it out for specific information in that domain.
+
+[Awesome-Social-Engineering](https://github.com/v2-dev/awesome-social-engineering)
+
 
 # :pirate_flag: Contributing
 Please contribute if you have more suggestions! My experience is too limited to be truly comprehensive. 
