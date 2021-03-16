@@ -124,7 +124,7 @@ Check it out for specific information in that domain.
 [Awesome-Social-Engineering](https://github.com/v2-dev/awesome-social-engineering)
 
 # :eye: OSINT
-The following github repository ccontains an awesome listof all things OSINT
+The following github repository contains an awesome list of all things OSINT
 
 Check it out for specific information in that domain.
 
