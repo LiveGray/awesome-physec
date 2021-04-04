@@ -1,5 +1,9 @@
 # Awesome-PhySec :office: :bank: :hospital:
 Repository containing useful links for all things Physical Security.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
 ![alt text](https://github.com/l373/Awesome-PhySec/blob/master/physec.jpg)
 
 # :computer: Videos & Conference Presentations
