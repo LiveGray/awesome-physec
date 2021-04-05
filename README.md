@@ -132,7 +132,7 @@ The following github repository contains an awesome list of all things OSINT
 
 Check it out for specific information in that domain.
 
-[Awesome-OSINT] (https://github.com/jivoi/awesome-osint)
+[Awesome-OSINT](https://github.com/jivoi/awesome-osint)
 
 # :pirate_flag: Contributing
 Please contribute if you have more suggestions! My experience is too limited to be truly comprehensive. 
